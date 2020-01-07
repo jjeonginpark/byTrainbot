@@ -1,0 +1,2 @@
+python bot.py 961210896:AAEW2uk3WvKMBRUF7v0LNOuGLH3Jd476L8A
+Run.bat
